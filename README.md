@@ -82,13 +82,3 @@ I specialize in transforming data into insights using Excel and business knowled
 </ul>
 
 ---
-# 👋 Hi, I'm Abdelrahman
-
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-## 🏆 First Repository
-Created my first repository: [Excel-Dashboard](https://github.com/YourUsername/Excel-Dashboard)
-
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
