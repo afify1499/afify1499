@@ -40,16 +40,6 @@ I specialize in transforming data into insights using Excel and business knowled
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PUT_YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PUT_YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
 <h2>🚀 Currently Learning</h2>
 
 <ul>
