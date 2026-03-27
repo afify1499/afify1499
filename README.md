@@ -35,7 +35,7 @@ I specialize in transforming data into insights using Excel and business knowled
 <!-- ADD YOUR DASHBOARD IMAGE BELOW -->
 
 <p align="center">
-<img src="PUT_YOUR_IMAGE_LINK_HERE" width="600"/>
+<img src="file:///C:/Users/admin/Desktop/Dashboard.png" width="600"/>
 </p>
 
 ---
